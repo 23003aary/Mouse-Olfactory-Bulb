@@ -25,7 +25,7 @@ produces a test accuracy of 64.29% which is higher than 62.5% produced by our se
 deepen our understanding of the olfactory system and contribute to advancements in the field of toxicology
 
 
-**Sources**
+## **Sources**
 Shawn D Burton, Audrey Brown, Thomas P Eiting, Isaac A Youngstrom, Thomas C Rust, Michael Schmuker, and Matt Wachowiak. 
 Mapping odorant sensitivities reveals a sparse but structured representation of olfactory chemical space by sensory input to the mouse olfactory bulb. 
 eLife, 11:e80470, jul 2022.
