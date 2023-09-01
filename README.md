@@ -1,4 +1,4 @@
-# Mouse-Olfactory-Bulb
+# Neural-Netowrk-Mouse-Olfactory-Bulb
 
 Capturing human capabilities within neural networks has been a feat many machine learning scientists have achieved and continue to strive to capture. Primarily this has been through creating new neural networks
 that mimic the way humans learn and this has provided fruitful results. Many researchers have further found that by structuring a neural network to smell like a human does, by identifying a chemical compound, the network
@@ -16,7 +16,7 @@ help relieve it by stimulating the area (Mahoney et al., 2020). Our model’s ap
 This insight might reveal links between specific smells and conditions like PTSD symptoms. Identifying and treating affected areas in the olfactory cortex could enhance our understanding of such disorders. 
 Additionally, our model holds the potential for addressing other health conditions that require information from the olfactory cortex.
 
-This project‘s goal is to gain insights into sensory perception and its correlation with chemical toxicity through the study of the olfactory system in mice. We propose implementing a neural network model that analyzes brain scans
+Using PyTorch, this project‘s goal is to gain insights into sensory perception and its correlation with chemical toxicity through the study of the olfactory system in mice. We propose implementing a neural network model that analyzes brain scans
 (748 images) of the olfactory bulb in mice. This model will predict the toxicity of chemical odorants by extracting patterns and features from brain scans. The dataset will be utilized
 for training, testing, and validation purposes, with 70/15/15 split. The primary model comprises Convolutional Neural Networks (CNNs) and Artificial Neural Networks (ANNs).
 The CNN component will extract pertinent features from the brain scans, while the ANN component will classify the toxicity levels of the chemical odorants. Through rigorous
